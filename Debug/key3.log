@@ -1,0 +1,18 @@
+﻿生成启动时间为 2015/2/9 星期一 下午 4:04:24。
+     1>项目“E:\workspace\key3\key3.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\key3.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\key3.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt key3.cpp
+         key3.cpp
+     1>e:\workspace\key3\key3.cpp(3): warning C4627: “#include "atltypes.h"”: 在查找预编译头使用时跳过
+                 将指令添加到“StdAfx.h”或重新生成预编译头
+     1>e:\workspace\key3\key3.cpp(11): error C2065: “Point”: 未声明的标识符
+     1>e:\workspace\key3\key3.cpp(11): error C2146: 语法错误: 缺少“;”(在标识符“p”的前面)
+     1>e:\workspace\key3\key3.cpp(11): error C2065: “p”: 未声明的标识符
+     1>已完成生成项目“E:\workspace\key3\key3.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.94
